@@ -1,2 +1,4 @@
 cv2
 transformers
+Yolov5
+pandas
